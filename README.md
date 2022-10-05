@@ -1,1 +1,1 @@
-Questo programma non fa assolutamente nulla, forse
+Questo programma non fa assolutamente nulla
